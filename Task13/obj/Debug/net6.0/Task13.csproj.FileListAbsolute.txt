@@ -1,0 +1,15 @@
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/bin/Debug/net6.0/Task13
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/bin/Debug/net6.0/Task13.deps.json
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/bin/Debug/net6.0/Task13.runtimeconfig.json
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/bin/Debug/net6.0/Task13.dll
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/bin/Debug/net6.0/Task13.pdb
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/Task13.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/Task13.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/Task13.AssemblyInfo.cs
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/Task13.csproj.CoreCompileInputs.cache
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/Task13.dll
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/refint/Task13.dll
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/Task13.pdb
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/Task13.genruntimeconfig.cache
+/Users/gennadj/Desktop/C# Семинар_2_ Home/Task13/obj/Debug/net6.0/ref/Task13.dll
